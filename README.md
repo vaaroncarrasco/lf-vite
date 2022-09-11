@@ -1,5 +1,5 @@
 # Life Countdown v3.0
-[GitHub Repo](https://github.com/vaaroncarrasco/lf-vite)
+[GitHub Repo](https://github.com/vaaroncarrasco/lf-vite)\
 [Chrome Extension](https://chrome.google.com/webstore/detail/life-countdown/cbmkjjddopphkedckgbaoenglknojeob)
 
 ### New Features: Textarea
@@ -26,5 +26,5 @@ from the local storage and reload the page. It'll keep the
 textarea value value though.
 ***
 If you want to support me and encourage me to develop more free
-and open source tools, feel free to help me out with my cat's food lol
+and open source tools, feel free to help me out with my cat's food lol\
 [PayPal Donation](https://www.paypal.com/donate/?hosted_button_id=V6MG7L7EA4HW8)
