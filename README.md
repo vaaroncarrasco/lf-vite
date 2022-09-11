@@ -1,6 +1,8 @@
-# Life Countdown v3.0
+# Life Countdown v3.0  
+
 [GitHub Repo](https://github.com/vaaroncarrasco/lf-vite)\
-[Chrome Extension](https://chrome.google.com/webstore/detail/life-countdown/cbmkjjddopphkedckgbaoenglknojeob)
+[Chrome Extension](https://chrome.google.com/webstore/detail/life-countdown/cbmkjjddopphkedckgbaoenglknojeob)\
+[My Twitter](https://twitter.com/_aaroncarrasco)
 
 ### New Features: Textarea
 
