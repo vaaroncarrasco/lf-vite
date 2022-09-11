@@ -1,0 +1,12 @@
+textarea {
+  display: block;
+  margin: 1.5rem;
+  width: 80vw;
+  height: 60%;
+  resize: none;
+  background-color: var(--black);
+  color: var(--white);
+  outline: none
+}
+
+textarea::placeholder { opacity: .5; }
