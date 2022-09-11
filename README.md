@@ -1,6 +1,6 @@
 # Life Countdown v3.0  
 
-![Life Countdown Chrome Extension Screenshot]('life-countdown.png')
+![Life Countdown Chrome Extension Screenshot](life-countdown.png "Life Countdown screenshot")
 
 [GitHub Repo](https://github.com/vaaroncarrasco/lf-vite)\
 [Chrome Extension](https://chrome.google.com/webstore/detail/life-countdown/cbmkjjddopphkedckgbaoenglknojeob)\
